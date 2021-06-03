@@ -19,6 +19,6 @@ https://github.com/samwel-chege/My-car-website.git
 1. CSS
 1. Git
 ### Live Site
-View [Live] (https://github.com/samwel-chege/My-car-website.git)
+View [Live] (https://github.com/samwel-chege/My-car-website.gitcode)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
