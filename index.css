@@ -12,6 +12,7 @@ ul{
 }
 .sidebar{
     float: right;
+    width: 25%;
 }
 
 ol{
