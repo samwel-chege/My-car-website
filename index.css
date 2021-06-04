@@ -7,7 +7,13 @@ h2{
     height: 600px;
 }
 ul{
-    color: rgb(0, 195, 255);
     background-color: beige;
 
+}
+.sidebar{
+    float: right;
+}
+
+ol{
+    background-color: beige;
 }
