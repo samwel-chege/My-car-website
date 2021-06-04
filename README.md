@@ -2,7 +2,7 @@
 ## Author
 Samwel Chege
 ### Description
-the website entails more information about cars
+a website reviewing the new Audi etron Gt 
 ### Prerequisities
 You need to have git installed
 You can install it with the following command in your terminal
