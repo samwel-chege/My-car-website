@@ -2,19 +2,16 @@ h2{
     color: rosybrown;
     
 }
-.Img{
-    width: 900px;
-    height: 600px;
-}
-ul{
+
+/* ul{
     background-color: beige;
 
-}
+} */
 .sidebar{
     float: right;
-    width: 25%;
+    /* width: 25%; */
 }
 
-ol{
+/* ol{
     background-color: beige;
-}
+} */
